@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.heading {
+  font-size: 40px;
+  font-family: Roboto;
+  border-radius: 8px;
+  cursor: pointer;
+}
